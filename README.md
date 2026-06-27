@@ -1,110 +1,61 @@
-<!-- Header -->
-<div align="center">
+<h1 align="center">Ghazanfar Taqi</h1>
 
+<p align="center">
+  Full-Stack & AI Engineer &nbsp;·&nbsp; BS Software Engineering @ University of the Punjab &nbsp;·&nbsp;
+</p>
 
-# `GHAZANFAR TAQI`
-### **Software Engineer · ML · Full-Stack · Open Source**
+<p align="center">
+  Intern @ <strong>Sysvoy</strong> &nbsp;·&nbsp;Lahore, Pakistan 🇵🇰
+</p>
 
-
-
-## `> ABOUT`
-<div align="left">
-    
-```python
-class Ghazanfar:
-    def __init__(self):
-        self.role        = "BS Software Engineering @ University of the Punjab"
-        self.semester    = 4
-        self.internship  = "Cryptweb"
-        self.freelance   = ["Fiverr", "Upwork"]
-        self.location    = "Lahore, Pakistan 🇵🇰"
-        self.interests   = ["ML", "Full-Stack", "Robotics", "Open Source"]
-        self.aesthetic   = "cyberpunk/dark — always"
-
-    def current_focus(self):
-        return [
-            "Building AI-powered web apps",
-            "Gold price prediction (yfinance + FastAPI + Next.js)",
-            "Freelancing: AI chatbots, automation, 3D web"
-        ]
-```
-
-</div>
----
-
-## `> FEATURED PROJECTS`
-
-### 🤖 [BLUE Companion](https://github.com/ghazanfartaqi)
-> React Native (Expo Router + TypeScript) app on the **Google Play Store** — controls a Raspberry Pi robot over WebSocket with live MJPEG video streaming and a FastAPI backend.
-
-### 🌐 [NetPrint](https://github.com/ghazanfartaqi)
-> ML-powered network traffic classifier. Random Forest · ~97% accuracy · Scapy packet capture · Flask API · Cyberpunk canvas frontend.
-
-### 🔍 [PySearch](https://github.com/ghazanfartaqi)
-> Full search engine from scratch — TF-IDF ranking, Levenshtein spell correction, Common Crawl WET ingestion.
-
-### ☁️ [Cloud-Insight-AI](https://github.com/ghazanfartaqi)
-> Open-source contributor — migrated `requirements.txt` → `pyproject.toml`, merged PR.
+<p align="center">
+  <a href="https://ghazanfartaqi.github.io/portfolioGT"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ghazanfartaqi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ghazanfartaqi2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ghazanfartaqi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-## `> STACK`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=00F5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=00F5FF)
-![C++](https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=00F5FF)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=00F5FF)
-![Next.js](https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=00F5FF)
-![React Native](https://img.shields.io/badge/React_Native-0D0D0D?style=flat-square&logo=react&logoColor=00F5FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=00F5FF)
-![Flask](https://img.shields.io/badge/Flask-0D0D0D?style=flat-square&logo=flask&logoColor=00F5FF)
-![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=00F5FF)
-
-**ML / Data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D0D0D?style=flat-square&logo=scikitlearn&logoColor=00F5FF)
-![Pandas](https://img.shields.io/badge/Pandas-0D0D0D?style=flat-square&logo=pandas&logoColor=00F5FF)
-![yfinance](https://img.shields.io/badge/yfinance-0D0D0D?style=flat-square&logo=yahoo&logoColor=00F5FF)
-
-</div>
+I build full-stack web apps, ML-powered tools — from model training to deployed product. My stack is Python, TypeScript, React, Next.js, and FastAPI.
 
 ---
 
-## `> GITHUB STATS`
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ghazanfartaqi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&icon_color=00F5FF&text_color=CCCCCC" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazanfartaqi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=00F5FF&text_color=CCCCCC" />
-
-</div>
-
----
-
-## `> STREAK`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ghazanfartaqi&theme=dark&hide_border=true&background=0D0D0D&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
-
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| **BLUE Companion** *(Google Play)* | React Native app controlling a Raspberry Pi robot — WebSocket control + live MJPEG video stream | React Native · FastAPI · Raspberry Pi |
+| **NetPrint** | ML network traffic classifier · ~97% accuracy | Random Forest · Scapy · Flask |
+| **PySearch** | Search engine from scratch — TF-IDF ranking + Levenshtein spell correction | Python · NLP |
 
 ---
 
-<div align="center">
+## 🔨 Currently Building
 
-```
-[ open to freelance · internships · collabs ]
-```
+- 🤖 **DevPulse AI**: An AI-powered platform that analyzes the tech job market and helps developers understand which skills to learn, their market value, and personalized learning paths.
 
-**`ghazanfartaqi2@gmail.com`** · **`+92 308 2648330`**
+---
 
-</div>
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazanfartaqi&show_icons=true&hide_border=true&theme=dark&hide=stars" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazanfartaqi&layout=compact&hide_border=true&theme=dark" height="150"/>
+</p>
