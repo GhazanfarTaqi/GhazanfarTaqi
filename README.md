@@ -8,7 +8,7 @@
 
 
 ## `> ABOUT`
-
+<div align="left">
 ```python
 class Ghazanfar:
     def __init__(self):
@@ -27,7 +27,7 @@ class Ghazanfar:
             "Freelancing: AI chatbots, automation, 3D web"
         ]
 ```
-
+</div>
 ---
 
 ## `> FEATURED PROJECTS`
